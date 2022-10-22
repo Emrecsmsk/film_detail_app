@@ -7,7 +7,7 @@ import 'package:pinsoftfilm/screen/no_internet_connection.dart';
 import 'package:pinsoftfilm/utility/language/language.dart';
 import 'package:pinsoftfilm/utility/theme/custom_theme.dart';
 
-void main() async {
+void main(){
   runApp(MyApp());
 }
 
